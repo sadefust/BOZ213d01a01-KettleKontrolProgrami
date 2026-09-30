@@ -21,5 +21,4 @@ Bu program, su ısıtıcısının durumunu gösteren basit bir simülasyondur.
 3. Terminalde proje klasörüne şunu yaz: python kettle.py
 
 ## Yazar
-Ruhan Sadef USTA - 25040221
-BÖTE 2.Sınıf 
+Ruhan Sadef USTA - 25040221 - BÖTE 2.Sınıf 
